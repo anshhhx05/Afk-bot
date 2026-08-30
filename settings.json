@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JonnySMP2223.aternos.me",
-    "port": 26843,
+    "ip": "SmiteSMP2223.aternos.me",
+    "port": 21180,
     "version": "1.20.1",
     "try-creative": false
   },
